@@ -15,7 +15,10 @@ public class SeriesDemo extends ByTwos {
         ob.setStart(100);
 
         for (int i = 0; i < 5; i++) {
-            System.out.println("Следующее значение: " + ob.getNext());
+            System.out.println("Предыдущее значение " + ob.getPrevious());
+
         }
     }
+
+
 }

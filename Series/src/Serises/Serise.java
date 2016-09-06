@@ -6,5 +6,6 @@ package Serises;
 public interface Serise {
     int getNext(); //возвратить следующее по порядку число
     void reset(); //
-    void setStart(int x); //установить начальное значение
+    void setStart(int x);
+   //установить начальное значение
 }
