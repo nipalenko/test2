@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Output/CompFile.iml" filepath="$PROJECT_DIR$/Output/CompFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hen/Hen.iml" filepath="$PROJECT_DIR$/Hen/Hen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Input/Output.iml" filepath="$PROJECT_DIR$/Input/Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Output/Output.iml" filepath="$PROJECT_DIR$/Output/Output.iml" />
       <module fileurl="file://$PROJECT_DIR$/Series/Series.iml" filepath="$PROJECT_DIR$/Series/Series.iml" />
       <module fileurl="file://$PROJECT_DIR$/massiv/massiv.iml" filepath="$PROJECT_DIR$/massiv/massiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/test2.iml" filepath="$PROJECT_DIR$/test2.iml" />
