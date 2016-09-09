@@ -7,7 +7,7 @@ public class ShowFile {
     public static void main(String[] args) throws Exception {
 
         FileWriter write = new FileWriter("D:/text.txt",true);
-        String text = "\nI fuck english language ";
+        String text = "\n Hello World ";
         write.write(text);
 
         write.close();
