@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/CompFile/Output/Output.iml" filepath="$PROJECT_DIR$/CompFile/Output/Output.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompFile/RandomAccess.iml" filepath="$PROJECT_DIR$/CompFile/RandomAccess.iml" />
       <module fileurl="file://$PROJECT_DIR$/Series/Series.iml" filepath="$PROJECT_DIR$/Series/Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsDemo/ThreadsDemo.iml" filepath="$PROJECT_DIR$/ThreadsDemo/ThreadsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/massiv/massiv.iml" filepath="$PROJECT_DIR$/massiv/massiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/test2.iml" filepath="$PROJECT_DIR$/test2.iml" />
     </modules>
